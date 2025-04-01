@@ -63,4 +63,4 @@ flutter run
 5. Open a Pull Request
 
 ## Demo
-<img src="assets/mount-of-the-world.gif" alt="Demo GIF">
+[![App Demo](https://pbs.twimg.com/media/FqZq7kUaMAE4345.jpg)](https://x.com/AyomideWilfred9/status/1906771656590188671)
